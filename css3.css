@@ -1,0 +1,24 @@
+.centre{
+    margin-left: auto;
+    margin-right: auto;
+}
+.one,.two{
+    width: 9cm;
+    height: 40px;
+    text-align: left;
+}
+.three{
+    width: 5cm;
+    height: 40px;
+    text-align: left;
+}
+table,th,td{
+    border-collapse: collapse;
+}
+th{
+    background-color: rgba(9, 150, 9, 0.568);
+    color: white;
+}
+.even{
+    background-color:rgb(202, 196, 196);
+}

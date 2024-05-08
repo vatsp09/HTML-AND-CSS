@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e2dcdc;
+  }
+  
+  li {
+    float: left;
+    border-right:1.5px solid #35ace4;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(109, 109, 248);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .active {
+    background-color:   #b6a9a9;
+    color: black;
+  }
+
+  

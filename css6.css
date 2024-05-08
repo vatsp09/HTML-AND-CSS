@@ -1,0 +1,39 @@
+.image{
+    border-radius: 100px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centre
+{
+   padding-left: 35%;
+}
+#name,#psw,#sub{
+    width: 10cm;
+    height: 1cm;
+}
+#sub{
+    background-color: rgb(8, 90, 8);
+    color: aliceblue;
+}
+.check{
+    margin-top: 15px;
+}
+#last{
+    background-color: rgb(211, 203, 203);
+    width: 44%;
+    height: 1cm;
+    display: flex;
+}
+.text{
+         margin-left: 195px;
+         margin-top:10px;
+   
+}
+#cancel{
+    height:0.7cm;
+    margin-top: 5px;
+    margin-left: 3px;
+    color: white;
+    background-color: rgb(233, 53, 53);
+}
